@@ -81,16 +81,21 @@ Role-based access control is implemented using custom middleware to restrict act
 
 ---
 
+## API Documentation
+
+Postman collection is available here:
+
+[Download Postman Collection](./postman_collection.json)
+
+---
+
 ## How to Run
 
 1. Install dependencies:npm install
 
-
 2. Run the server:node src/server.js
 
-
-3. Server runs on: http://localhost:3000
-
+3. Server runs on: http://localhost:3000/
 
 ---
 
